@@ -1,0 +1,15 @@
+body{
+    background-color: #121212;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#data{
+    display: flex;
+    flex-direction: row;
+    flex: 8 0 0;
+    
+}
+
+#graph{
+    width: 80%;
+}
